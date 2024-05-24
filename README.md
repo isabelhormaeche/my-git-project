@@ -1,3 +1,3 @@
  My Git Project
 
- > My quote for the git project
+ > My code for the git project
